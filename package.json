@@ -1,7 +1,7 @@
 {
   "name": "node-unnks",
   "version": "0.0.1",
-  "description": "nks and nkx archive unpacker Edit",
+  "description": "nks and nkx archive unpacker",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
