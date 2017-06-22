@@ -1,5 +1,5 @@
 {
-  "name": "node-unnks",
+  "name": "unnks",
   "version": "0.0.1",
   "description": "nks and nkx archive unpacker",
   "main": "index.js",
